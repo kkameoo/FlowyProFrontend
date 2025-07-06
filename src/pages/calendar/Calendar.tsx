@@ -196,7 +196,7 @@ function YearMonthPicker({
 }
 
 export default function CalendarPage() {
-  const [value, setValue] = useState<Date>(new Date(2025, 5, 1));
+  const [value, setValue] = useState<Date>(new Date());
   const [events, setEvents] = useState<CalendarEvent[]>([]);
   const [userId, setUserId] = useState<string | null>(null);
   const [showPicker, setShowPicker] = useState(false);
@@ -536,6 +536,7 @@ export default function CalendarPage() {
 
     const dayOfWeek = date.getDay();
     const isCurrentMonth = date.getMonth() === value.getMonth();
+    const isToday = isSameDay(date, new Date());
     let dayClass = '';
     if (isCurrentMonth) {
       if (dayOfWeek === 0) dayClass = 'calendar-sunday';
@@ -555,6 +556,9 @@ export default function CalendarPage() {
           cursor: 'pointer',
           padding: '8px',
           boxSizing: 'border-box',
+          backgroundColor: isToday ? 'rgba(196, 181, 253, 0.3)' : 'transparent',
+          borderRadius: isToday ? '8px' : '0',
+          transition: 'all 0.2s ease',
         }}
         onClick={(e) => {
           e.stopPropagation();
