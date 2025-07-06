@@ -1027,7 +1027,7 @@ const Dashboard: React.FC = () => {
             <SectionTitle>회의 피드백</SectionTitle>
           </SectionHeader>
           <SectionBody>
-            <SummaryContent>
+            <SummaryContent style={{ paddingLeft: '20px' }}>
               <div>
                 {Object.entries(FEEDBACK_LABELS).map(([id, title]) => {
                   const matchedItems =

@@ -1196,7 +1196,7 @@ export const StyledUploadSection = styled.div<StyledUploadSectionProps>`
   color: #333;
   padding: 20px;
   position: relative;
-  min-height: 50px;
+  min-height: 120px;
   transition: all 0.2s ease-in-out;
   border: 2px dashed
     ${({ $isDragging }) => ($isDragging ? "#00b4ba" : "transparent")};
