@@ -7,9 +7,9 @@
 
 ## 🙋🏻팀원
 
-| **한동길** | **cheowha1** | **jensen-kor** |
-| :------: |  :------: |  :------: |
-| [<img width="224" height="238" alt="Image" src="https://github.com/user-attachments/assets/fa5fe9c5-d7ac-4bff-aa22-515389828d08" /> <br/> @kkameoo](https://github.com/kkameoo)  | [<img width="224" height="238" alt="Image" src="https://github.com/user-attachments/assets/2177f4e7-3812-487b-8fbd-fe27777a05eb" /> <br/> @cheowha1](https://github.com/cheowha1) | [![Image](https://github.com/user-attachments/assets/a5370678-d937-4223-8a94-fbe9748c411f) <br/> @jensen-kor](https://github.com/jensen-kor) |
+| **한동길** | **andendeun** | **xunapxa** | **ehguss** |
+| :------: |  :------: |  :------: |  :------: |
+| [<img src="https://avatars.githubusercontent.com/kkameoo" height=150 width=150> <br/> @kkameoo](https://github.com/kkameoo) | [<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/926f52f2-90e1-4039-9589-e20e0cf2c451" /> <br/> @andendeun](https://github.com/andendeun) | [<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/4a57e7a5-85eb-4e1d-9c39-3e114e31fda1" /> <br/> @xunapxa](https://github.com/xunapxa) | [<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/5adab4bd-eed4-4468-a517-e7fea602f5ad" /> <br/> @ehguss](https://github.com/ehguss) | 
 
 
 <br/>
@@ -80,127 +80,143 @@ npm run build
 ## 🖥️ UI/UX 단위 테스트 결과서
 
 <details>
+  
+<summary>메인화면</summary>
+
+## 메인화면
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/83491dcd-7a7d-47ab-8af7-a96d7cceb96a" />
+
+</details>
+
+<details>
+  
 <summary>로그인&회원가입</summary>
-   
-### 로그인
-![Image](https://github.com/user-attachments/assets/ce7f4807-ca68-4b13-8146-cfec23763270)
 
-### 회원가입 - 이메일 인증
-![Image](https://github.com/user-attachments/assets/904dbf0d-81d4-4077-93ff-81d59b787dc2)
+## 로그인
 
-![Image](https://github.com/user-attachments/assets/b12f437a-3bc1-45d8-91e5-38d4fa5a7659)
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/a07388c9-d437-4088-9863-e334374bbae9" />
 
-### 회원가입 - 유효성검사
+## 회원가입
 
-![Image](https://github.com/user-attachments/assets/2e0e7e20-afcb-476c-a590-f37273fb743d)
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/2bb8d147-91a8-4e1f-adb6-ae364bec22a1" />
 
-</details>
+## 소셜 회원가입
 
-<details>
-<summary>게시판</summary>
-   
-### 게시판 목록
-![Image](https://github.com/user-attachments/assets/2e555679-34ae-4ade-9e1f-4dbac0775336)
-
-![Image](https://github.com/user-attachments/assets/03d29ecd-dcf4-42a1-92c7-6c3c62a0aa8b)
-
-### 게시판 작성
-![Image](https://github.com/user-attachments/assets/386c1ce2-bdec-4e26-839d-68a0bb50200c)
-
-### 게시판 상세 화면
-![Image](https://github.com/user-attachments/assets/f6a4c10d-d817-4a5b-b6cd-f4e3d9aeb8e0)
-
-### 게시판 수정
-![Image](https://github.com/user-attachments/assets/d1026fb3-125e-4e2b-a4a9-92f97328c0c0)
-
-### 게시판 삭제
-![Image](https://github.com/user-attachments/assets/6d4ee71d-11c1-4e15-9c48-40c3c1ae5e44)
-
-### 게시판 수정
-![Image](https://github.com/user-attachments/assets/d1026fb3-125e-4e2b-a4a9-92f97328c0c0)
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/ef2f2405-05d4-46d4-b3fa-d3fe61f950db" />
 
 </details>
 
 <details>
+  
 <summary>마이페이지</summary>
-   
-### 내 게시물
-![Image](https://github.com/user-attachments/assets/5c29c065-b6ed-4cfd-9abf-92a51d0a2da6)
 
-### 내 정보 수정
-![Image](https://github.com/user-attachments/assets/20603d84-749c-491a-99cb-2c79c15cdec8)
+## 마이페이지
 
-### 애완동물 등록
-![Image](https://github.com/user-attachments/assets/53bff4bb-5614-4a1c-b038-361dce1992af)
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/6b95037d-d0f7-4bc6-a4f0-1a83e4dbf8ee" />
 
-### 애완동물 수정, 삭제
-![Image](https://github.com/user-attachments/assets/9b5fcf93-298a-49aa-b6fb-1163c6a02567)
+## 내 정보 수정
 
-### 애완동물 변경
-![Image](https://github.com/user-attachments/assets/4e7fd417-819b-483c-8300-8ce5819ba806)
-
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/662fbf51-b5d9-49d2-a147-dd87d643189d" />
 
 </details>
 
 <details>
-<summary>지도</summary>
-   
-### 위치 수정
-<img width="2066" height="1026" alt="Image" src="https://github.com/user-attachments/assets/a2c5e387-5c82-4d93-b7a2-3efe0e26cf34" />
+  
+<summary>회의 분석</summary>
 
-<img width="2078" height="1053" alt="Image" src="https://github.com/user-attachments/assets/e924332a-da02-4b8c-8a54-5ec425915a1d" />
+## 프로젝트 목록
 
-<img width="2062" height="1057" alt="Image" src="https://github.com/user-attachments/assets/f5c8f625-f99e-4fa4-9006-90dcbf3fb155" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/faa1570a-490c-46b9-92e2-5fcc3619de36" />
 
-</details>
+## 프로젝트 생성
 
-<details>
-<summary>채팅&알림</summary>
-   
-### 채팅
-![Image](https://github.com/user-attachments/assets/187256ec-7be5-46d6-8d02-ba8cef68506b)
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/e9281184-04b2-426f-a28b-70be79942d21" />
 
-### 채팅방 유저 퇴장
-![Image](https://github.com/user-attachments/assets/5406d06a-8b7b-4dca-a3bc-61759d354fd4)
+## 프로젝트 수정
 
-### 채팅방 목록
-![Image](https://github.com/user-attachments/assets/563a3c09-c723-4bc6-934d-0d39579b6803)
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/4e7df1fc-9f66-413c-b942-0d7a7615b4b7" />
 
-### 알림 확인 및 삭제
-![Image](https://github.com/user-attachments/assets/e39496b7-f813-4d52-94c9-5cc7c186382d)
+## 회의 정보 입력
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/e9dcf01f-b5b7-4760-8568-8adac83d22a9" />
 
 </details>
 
 <details>
+  
+<summary>회의 분석 결과</summary>
+
+## 프로젝트 목록
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/4ea0877b-1362-4228-8499-6bd5cd1e4416" />
+
+## 회의 목록
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/3e63dd49-1a67-4890-a23b-0719e4d0aa62" />
+
+## 회의 분석 결과
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/214fcfb3-5292-4565-a623-ef073754ac58" />
+
+## 회의 분석 결과 수정1
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c2cd970c-30f2-4dc9-a3c8-b62d7ef2e51c" />
+
+## 회의 분석 결과 수정2
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/158ce25a-74d5-485e-8871-1e632113425b" />
+
+## 회의 분석 결과 이메일
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/45509780-6e22-428d-a071-ec00d9f557a5" />
+
+</details>
+
+<details>
+  
+<summary>캘린더</summary>
+
+## 캘린더
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/8ccd11fa-71a9-4f56-a816-15ffd1a73d0e" />
+
+## 캘린더 상세 화면
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/3e22128e-5948-4ae7-aa70-e213e2412674" />
+
+## 회의 일정 캘린더에 작성
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/d3b093ef-637e-40ae-8f33-86c7bc8959f7" />
+
+## 회의 일정 구글 캘린더에 작성
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c87dfc50-c864-4dee-8e6d-051b03c92ff7" />
+
+</details>
+
+<details>
+  
 <summary>관리자</summary>
-   
-### 관리자 화면
-![Image](https://github.com/user-attachments/assets/f9228a5c-31a7-435e-8d25-6b16086c0634)
+
+## 사용자 목록
+
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/cf80dc8f-42ad-4185-b588-8830dbcad8a4" />
+
+## 사용자 반려/승인
+
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/0b349647-98b0-4866-8535-2c1a5b068410" />
+
+## 직급 생성
+
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/827cb796-fbc7-4d02-a811-066a55b61491" />
+
+## 직급 수정
+
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/8c80647f-b8d5-4eb0-9f8a-9032823b57b3" />
+
+## 문서 생성
+
+<img width="1920" height="1052" alt="Image" src="https://github.com/user-attachments/assets/9f69e1ed-fb7a-4f60-a572-dfdb1626c8eb" />
 
 </details>
-
-<details>
-<summary>모바일화면</summary>
-
-### 로그인
-![Image](https://github.com/user-attachments/assets/89e4b418-9a37-4407-a7cc-befd4e85d03e)
-
-### 게시판 화면
-![Image](https://github.com/user-attachments/assets/9d29ca98-3304-41f2-864f-1aeeb6efd26e)
-   
-### 게시판 상세 화면
-![Image](https://github.com/user-attachments/assets/6a116831-2526-4da0-bd4d-2ec7a2b74587)
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
